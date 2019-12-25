@@ -6,7 +6,8 @@ import androidx.annotation.Nullable;
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.databinding.ViewDataBinding;
 
-import com.fast.repaira.databinding.ActivityBaseTitleBinding;
+import com.fast.repair.databinding.ActivityBaseTitleBinding;
+
 
 public abstract class BaseActivity <T extends ViewDataBinding> extends AppCompatActivity {
     protected T mBinding;
