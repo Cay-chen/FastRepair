@@ -1,4 +1,4 @@
-package com.fast.repaira;
+package com.fast.repair;
 
 import android.content.Context;
 

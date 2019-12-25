@@ -1,3 +1,16 @@
 <resources>
     <string name="app_name">FastRepairApplication</string>
+
+    <!-- 会员登录与注册界面-->
+    <string name="login_name_hint">请输入你的会员名</string>
+    <string name="login_pwd_hint">请输入你的密码</string>
+    <string name="login_error_hint">会员名或密码错误，请重新输入</string>
+    <string name="login_btn_text">登录</string>
+    <string name="login_register_text">注册账号</string>
+    <string name="login_forget_pwd_text">忘记密码？</string>
+    <string name="login_other_text">其它方式登录</string>
+    <string name="login_phone_text">手机验证码登录</string>
+    <string name="login_mes_text">获取验证码</string>
+
+
 </resources>
